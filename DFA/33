@@ -1,0 +1,8 @@
+    a   b  
+i   a   b  
+END END END
+a   a   ab 
+ab  a   END +
+b   ba  END +
+ba  ba  bab +
+bab ba  END
