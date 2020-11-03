@@ -1,0 +1,8 @@
+Z -> S | SbA | bA
+A -> aA | bA | // sigma*
+
+S -> aSXa | bQ
+X -> bQ |
+
+Q ->  | QRb	// (a*b)*
+R -> aR | 
