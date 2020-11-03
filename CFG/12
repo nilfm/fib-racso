@@ -1,0 +1,7 @@
+S -> NC | AM | X
+A -> Aa |
+B -> Bb |
+C -> Cc |
+N -> aNb |
+M -> bMc |
+X -> aXc | B |
