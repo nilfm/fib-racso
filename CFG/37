@@ -1,0 +1,6 @@
+// First word doesn't end with an a
+S -> bSa | bSb | aXa | aXb
+// First word ends in one a
+X -> bSa | bSb | aYa | aYb
+// First word contains aa -> anything works
+Y -> bYa | bYb | aYa | aYb | c

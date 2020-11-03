@@ -1,0 +1,12 @@
+// XCD means a = b
+// Y means a = d
+// ZD means a = c
+S -> XCD | Y | ZD
+
+X -> aXb |
+B -> bB |
+C -> cC |
+D -> dD |
+R -> bR | Rc |
+Y -> aYd | R |
+Z -> aZc | B |
