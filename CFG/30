@@ -1,0 +1,8 @@
+// Distingim si comença en a, b, c
+S -> aCS | bCS | cXS |
+
+// Una c mes que a+b
+C -> c | aCC | bCC
+
+// Una a+b mes que c
+X -> a | b | cXX

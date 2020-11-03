@@ -1,0 +1,9 @@
+S -> aBa | bAb
+
+// A must contain some a
+A -> aPa | bAb | a
+
+// B must contain some b
+B -> bPb | aBa | b
+
+P -> aPa | bPb | a | b |

@@ -1,0 +1,8 @@
+// Distingim si comença en a, b, c
+S -> cS | aBS | bAS |
+
+// Ha de tenir una a mes
+A -> a | bAA | cA
+
+// Ha de tenir una b mes
+B -> b | aBB | cB

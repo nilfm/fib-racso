@@ -1,0 +1,7 @@
+S -> aXa | bSb | a | b |
+
+// X cannot be b
+X -> aXa | bYb | a |
+
+// Y cannot contain a
+Y -> bSb | b |

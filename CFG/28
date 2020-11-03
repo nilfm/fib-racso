@@ -1,0 +1,8 @@
+// Distingim si comença en a o b
+S -> aBS | bAS |
+
+// Si començava en a, B ha de tenir una b mes
+B -> b | aBB
+
+// Si començava en b, A ha de tenir una a mes
+A -> a | bAA
