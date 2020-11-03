@@ -1,0 +1,11 @@
+     a    b   
+i    a    b   
+OK   OK   OK   +
+a    a    ab  
+ab   aba  abb 
+aba  aba  abab
+abab aba  OK  
+abb  OK   abb 
+b    aba  bb  
+bb   bba  bb  
+bba  bba  OK  

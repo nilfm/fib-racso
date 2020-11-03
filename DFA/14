@@ -1,0 +1,7 @@
+    a   b  
+i   OK  b   +
+BAD BAD BAD
+OK  OK  OK  +
+b   OK  bb  +
+bb  bba bb  +
+bba BAD bb  +

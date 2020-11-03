@@ -1,0 +1,9 @@
+    a   b  
+i   a   b   +
+RIP RIP RIP
+a   aa  ab  +
+aa  RIP ab  +
+ab  ba  RIP +
+b   ba  bb  +
+ba  aa  RIP +
+bb  RIP RIP +
