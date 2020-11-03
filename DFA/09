@@ -1,0 +1,5 @@
+       a      b     
+no_a   a_good no_a   +
+END    END    END   
+a_bad  END    a_good
+a_good a_good a_bad  +
