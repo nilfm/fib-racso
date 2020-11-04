@@ -1,0 +1,18 @@
+//S son els de la forma ABC que tractarem diferent
+//Els 7 seguents casos son casos que comencen per "a" pero procurant
+//que no siguin de la forma no desitjada
+//Per ultim, qualsevol paraula que comenci per b o c ha de ser generada
+R -> S | aAB | aAC | aAcCT | aAbBaAT | aAbBcCaT | aAbBcCbT | bT | cT
+
+//Si arribem a la T es que ja ens es igual el que vingui
+T -> aT | bT | cT |
+
+//Si es de la forma ABC obliguem a que com a mínim hi hagi 2 simbols
+//amb concurrencia diferent
+S -> aXbC | AbYc | aZc
+X -> aXb | aA | bB
+Y -> bYc | bB | cC
+Z -> aZc | aB | Bc
+A -> aA |
+B -> bB |
+C -> cC |
