@@ -1,0 +1,6 @@
+S -> BaBaSbAbA | BcA 
+
+// a*
+A -> aA |
+// b*
+B -> bB |

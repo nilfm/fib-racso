@@ -1,0 +1,13 @@
+    a   b  
+i   a   b  
+1a  WIN aa 
+1b  WIN 1b 
+2a  2a  WIN
+2b  bb  WIN
+WIN WIN WIN +
+a   aa  ab 
+aa  1a  aa 
+ab  2a  ab 
+b   ba  bb 
+ba  ba  1b 
+bb  bb  2b 

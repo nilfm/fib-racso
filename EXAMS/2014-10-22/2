@@ -1,0 +1,10 @@
+S -> aSc | AP | TC
+
+// Nombre parell de bs
+P -> bbP |
+
+// Nombre senar de bs
+T -> bbT | b
+
+A -> aA | a
+C -> cC | c

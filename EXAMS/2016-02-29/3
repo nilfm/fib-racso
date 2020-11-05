@@ -1,0 +1,9 @@
+     a    b    c   
+i    a    b    c    +
+POZO POZO POZO POZO
+a    POZO b    ac   +
+ac   POZO cb   POZO +
+b    ba   POZO c    +
+ba   POZO POZO ac   +
+c    a    cb   POZO +
+cb   ba   POZO POZO +

@@ -1,0 +1,12 @@
+    a   b   c  
+i   a   b   c  
+a   a   ab  ac 
+ab  ba  b   abc
+abc abc abc abc +
+ac  ca  abc c  
+b   ba  b   bc 
+ba  a   ab  abc
+bc  abc cb  c  
+c   ca  cb  c  
+ca  a   abc ac 
+cb  abc b   bc 
