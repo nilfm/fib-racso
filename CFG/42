@@ -1,0 +1,7 @@
+S -> WcWcW | T | X | AbT | BaT 
+W -> aW | bW | cW | 
+T -> aT | bT | 
+X -> YXY | YTc | cTY 
+Y -> a | b 
+A -> YAY | aTc 
+B -> YBY | bTc 

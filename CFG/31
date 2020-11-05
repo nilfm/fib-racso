@@ -1,0 +1,4 @@
+S -> aBBS | bAS | bCBS | 
+A -> bC | bAA 
+B -> b | aBBB 
+C -> a | bAC 
